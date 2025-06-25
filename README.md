@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Currency Converter
 
 A simple currency converter web app built with **React**, **Vite**, and **Tailwind CSS**.
@@ -59,3 +60,7 @@ Open [http://localhost:5173/](http://localhost:5173/) in your browser.
 ## License
 
 This project is for learning and
+=======
+# 06-currency-converter
+currency converter using react
+>>>>>>> c3aef610330ae2039c9668cf53e25b1edcf04d82
